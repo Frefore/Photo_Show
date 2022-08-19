@@ -1,5 +1,4 @@
 # PhotoShow
-详细教程请访问[博客](https://blog.csdn.net/qq_41866776/article/details/96695938)
 ## 效果预览
 ### 电子相册
 ![电子相册](https://cdn.jsdelivr.net/gh/RoyalKnights/cdn/githubRead/PhotoShow/PhotoShow1.png)
